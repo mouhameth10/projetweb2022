@@ -1,0 +1,33 @@
+//verifier votre chemin
+pwd
+//sur le bureau
+cd desktop
+//creer un dossier
+mkdir  github
+//positionner sur le dossier
+cd github
+//lister
+ls
+//creer un fichier
+touch test.txt
+//pour sortir du dossier
+cd ..
+//config
+git config --global --list
+//
+git config --global user.email "xxxxxx@gmail.com"
+
+//initialiser
+git init
+//
+code
+//
+git add .
+//
+git status
+
+//
+git commit -m "premiere version de git"
+//
+git log
+
